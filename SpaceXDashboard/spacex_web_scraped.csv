@@ -1,0 +1,119 @@
+Flight No.,Launch site,Payload,Payload mass,Orbit,Customer,Launch outcome,Version Booster,Booster Category,Booster landing,Class,Date,Time
+0,CCAFS SLC-40,Dragon Spacecraft Qualification Unit,0,LEO,SpaceX,Success,F9 v1.0B0003.1,v1.0,Failure,0,4-Jun-10,18:45
+1,CCAFS SLC-40,Dragon,0,LEO,NASA,Success,F9 v1.0B0004.1,v1.0,Failure,0,8-Dec-10,15:43
+2,CCAFS SLC-40,Dragon,525,LEO,NASA,Success,F9 v1.0B0005.1,v1.0,No attempt,0,22-May-12,7:44
+3,CCAFS SLC-40,SpaceX CRS-1,4700,LEO,NASA,Success,F9 v1.0B0006.1,v1.0,No attempt,0,8-Oct-12,0:35
+4,CCAFS SLC-40,SpaceX CRS-2,4877,LEO,NASA,Success,F9 v1.0B0007.1,v1.0,No attempt,0,1-Mar-13,15:10
+5,VAFB SLC-4E,CASSIOPE,500,Polar,MDA,Success,F9 v1.1B1003,v1.1,Uncontrolled,0,29-Sep-13,16:00
+6,CCAFS SLC-40,SES-8,3170,GTO,SES,Success,F9 v1.1,v1.1,No attempt,0,3-Dec-13,22:41
+7,CCAFS SLC-40,Thaicom 6,3325,GTO,Thaicom,Success,F9 v1.1,v1.1,No attempt,0,6-Jan-14,22:06
+8,CCAFS LC-40,SpaceX CRS-3,2296,LEO,NASA,Success,F9 v1.1,v1.1,Controlled,0,18-Apr-14,19:25
+9,CCAFS LC-40,Orbcomm-OG2,1316,LEO,Orbcomm,Success,F9 v1.1,v1.1,Controlled,0,14-Jul-14,15:15
+10,CCAFS LC-40,AsiaSat 8,4535,GTO,AsiaSat,Success,F9 v1.1,v1.1,No attempt,0,5-Aug-14,8:00
+11,CCAFS LC-40,AsiaSat 6,4428,GTO,AsiaSat,Success,F9 v1.1,v1.1,No attempt,0,7-Sep-14,5:00
+12,CCAFS LC-40,SpaceX CRS-4,2216,LEO,NASA,Success,F9 v1.1,v1.1,Uncontrolled,0,21-Sep-14,5:52
+13,CCAFS LC-40,SpaceX CRS-5,2395,LEO,NASA,Success,F9 v1.1,v1.1,Failure,0,10-Jan-15,9:47
+14,CCAFS LC-40,DSCOVR,570,HEO,USAF,Success,F9 v1.1,v1.1,Controlled,0,11-Feb-15,23:03
+15,CCAFS LC-40,ABS-3A,4159,GTO,ABS,Success,F9 v1.1,v1.1,No attempt,0,2-Mar-15,3:50
+16,CCAFS LC-40,SpaceX CRS-6,1898,LEO,NASA,Success,F9 v1.1,v1.1,Failure,0,14-Apr-15,20:10
+17,CCAFS LC-40,TürkmenÄlem 52°E / MonacoSAT,4707,GTO,,Success,F9 v1.1,v1.1,No attempt,0,27-Apr-15,23:03
+18,CCAFS LC-40,SpaceX CRS-7,1952,LEO,NASA,Failure,F9 v1.1,v1.1,Precluded,0,28-Jun-15,14:21
+19,CCAFS LC-40,Orbcomm-OG2,2034,LEO,Orbcomm,Success,F9 FT,FT,Success,1,22-Dec-15,1:29
+20,VAFB SLC-4E,Jason-3,553,LEO,NASA,Success,F9 v1.1,v1.1,Failure,0,17-Jan-16,18:42
+21,CCAFS LC-40,SES-9,5271,GTO,SES,Success,F9 FT,FT,Failure,0,4-Mar-16,23:35
+22,CCAFS LC-40,SpaceX CRS-8,3136,LEO,NASA,Success,F9 FT,FT,Success,1,8-Apr-16,20:43
+23,CCAFS LC-40,JCSAT-14,4696,GTO,SKY Perfect JSAT Group,Success,F9 FT,FT,Success,1,6-May-16,5:21
+24,CCAFS LC-40,Thaicom 8,3100,GTO,Thaicom,Success,F9 FT,FT,Success,1,27-May-16,21:39
+25,CCAFS LC-40,ABS-2A,3600,GTO,ABS,Success,F9 FT,FT,Failure,0,15-Jun-16,14:29
+26,CCAFS LC-40,SpaceX CRS-9,2257,LEO,NASA,Success,F9 FT,FT,Success,1,18-Jul-16,4:45
+27,CCAFS LC-40,JCSAT-16,4600,GTO,SKY Perfect JSAT Group,Success,F9 FT,FT,Success,1,14-Aug-16,5:26
+28,VAFB SLC-4E,Iridium NEXT,9600,Polar,Iridium Communications,Success,F9 FT,FT,Success,1,14-Jan-17,17:54
+29,KSC LC-39A,SpaceX CRS-10,2490,LEO,NASA,Success,F9 FT,FT,Success,1,19-Feb-17,14:39
+30,KSC LC-39A,EchoStar 23,5600,GTO,EchoStar,Success,F9 FT,FT,No attempt,0,16-Mar-17,6:00
+31,KSC LC-39A,SES-10,5300,GTO,SES,Success,F9 FT♺,FT,Success,1,30-Mar-17,22:27
+32,KSC LC-39A,Inmarsat-5 F4,6070,GTO,Inmarsat,Success,F9 FT,FT,No attempt,0,15-May-17,23:21
+33,KSC LC-39A,SpaceX CRS-11,2708,LEO,NASA,Success,F9 FT,FT,Success,1,3-Jun-17,21:07
+34,KSC LC-39A,BulgariaSat-1,3669,GTO,Bulsatcom,Success,F9 FTB1029.2,FT,Success,1,23-Jun-17,19:10
+35,VAFB SLC-4E,Iridium NEXT,9600,LEO,Iridium Communications,Success,F9 FT,FT,Success,1,25-Jun-17,20:25
+36,KSC LC-39A,Intelsat 35e,6761,GTO,Intelsat,Success,F9 FT,FT,No attempt,0,5-Jul-17,23:38
+37,KSC LC-39A,SpaceX CRS-12,3310,LEO,NASA,Success,F9 B4,B4,Success,1,14-Aug-17,16:31
+38,VAFB SLC-4E,Formosat-5,475,SSO,NSPO,Success,F9 FT,FT,Success,1,24-Aug-17,18:51
+39,KSC LC-39A,Boeing X-37B,4990,LEO,USAF,Success,F9 B4,B4,Success,1,7-Sep-17,14:00
+40,VAFB SLC-4E,Iridium NEXT,9600,Polar,Iridium Communications,Success,F9 B4,B4,Success,1,9-Oct-17,12:37
+41,KSC LC-39A,SES-11,5200,GTO,SES S.A.,Success,F9 FTB1031.2,FT,Success,1,11-Oct-17,22:53:00
+42,KSC LC-39A,Koreasat 5A,3500,GTO,KT Corporation,Success,F9 B4,B4,Success,1,30-Oct-17,19:34
+43,CCAFS SLC-40,SpaceX CRS-13,2205,LEO,NASA,Success,F9 FTB1035.2,FT,Success,1,15-Dec-17,15:36
+44,VAFB SLC-4E,Iridium NEXT,9600,Polar,Iridium Communications,Success,F9 FTB1036.2,FT,Controlled,0,23-Dec-17,1:27
+45,CCAFS SLC-40,GovSat-1,4230,GTO,SES,Success,F9 FTB1032.2,FT,Controlled,0,31-Jan-18,21:25
+46,VAFB SLC-4E,Paz,2150,SSO,Hisdesat,Success,F9 FTB1038.2,FT,No attempt,0,22-Feb-18,14:17
+47,CCAFS SLC-40,Hispasat 30W-6,6092,GTO,Hispasat,Success,F9 B4,B4,No attempt,0,6-Mar-18,5:33
+48,VAFB SLC-4E,Iridium NEXT,9600,Polar,Iridium Communications,Success,F9 B4B1041.2,B4,No attempt,0,30-Mar-18,14:14
+49,CCAFS SLC-40,SpaceX CRS-14,2647,LEO,NASA,Success,F9 B4B1039.2,B4,No attempt,0,2-Apr-18,20:30
+50,CCAFS SLC-40,Transiting Exoplanet Survey Satellite,362,HEO,NASA,Success,F9 B4,B4,Success,1,18-Apr-18,22:51
+51,KSC LC-39A,Bangabandhu-1,3600,GTO,Thales-Alenia,Success,F9 B5B1046.1,B5,Success,1,11-May-18,20:14
+52,VAFB SLC-4E,Iridium NEXT,6460,Polar,Iridium Communications,Success,F9 B4B1043.2,B4,No attempt,0,22-May-18,19:47
+53,CCAFS SLC-40,SES-12,5384,GTO,SES,Success,F9 B4B1040.2,B4,No attempt,0,4-Jun-18,4:45
+54,CCAFS SLC-40,SpaceX CRS-15,2697,LEO,NASA,Success,F9 B4B1045.2,B4,No attempt,0,29-Jun-18,9:42
+55,CCAFS SLC-40,Telstar 19V,7075,GTO,Telesat,Success,F9 B5,B5,Success,1,22-Jul-18,5:50
+56,VAFB SLC-4E,Iridium NEXT,9600,Polar,Iridium Communications,Success,F9 B5B1048,B5,Success,1,25-Jul-18,11:39
+57,CCAFS SLC-40,Merah Putih,5800,GTO,Telkom Indonesia,Success,F9 B5B1046.2,B5,Success,1,7-Aug-18,5:18
+58,CCAFS SLC-40,Telstar 18V,7060,GTO,Telesat,Success,F9 B5,B5,Success,1,10-Sep-18,4:45
+59,VAFB SLC-4E,SAOCOM 1A,3000,SSO,CONAE,Success,F9 B5B1048.2,B5,Success,1,8-Oct-18,2:22
+60,KSC LC-39A,Es'hail 2,5300,GTO,Es'hailSat,Success,F9 B5B1047.2,B5,Success,1,15-Nov-18,20:46
+61,VAFB SLC-4E,SSO-A,4000,SSO,Spaceflight Industries,Success,F9 B5B1046.3,B5,Success,1,3-Dec-18,18:34:05
+62,CCAFS SLC-40,SpaceX CRS-16,2500,LEO,NASA,Success,F9 B5,B5,Failure,0,5-Dec-18,18:16
+63,CCAFS SLC-40,GPS III,4400,MEO,USAF,Success,F9 B5,B5,No attempt,0,23-Dec-18,13:51
+64,VAFB SLC-4E,Iridium NEXT,9600,Polar,Iridium Communications,Success,F9 B5B1049.2,B5,Success,1,11-Jan-19,15:31
+65,CCAFS SLC-40,Nusantara Satu,4850,GTO,PSN,Success,F9 B5B1048.3,B5,Success,1,22-Feb-19,1:45
+66,KSC LC-39A,Crew Dragon Demo-1,12055,LEO,NASA,Success,F9 B5[268],B5,Success,1,2-Mar-19,7:49
+67,CCAFS SLC-40,SpaceX CRS-17,2495,LEO,NASA,Success,F9 B5,B5,Success,1,4-May-19,6:48
+68,CCAFS SLC-40,Starlink,13620,LEO,SpaceX,Success,F9 B5B1049.3,B5,Success,1,24-May-19,2:30
+69,VAFB SLC-4E,RADARSAT Constellation,4200,SSO,Canadian Space Agency,Success,F9 B5B1051.2,B5,Success,1,12-Jun-19,14:17
+70,CCAFS SLC-40,SpaceX CRS-18,2268,LEO,NASA,Success,F9 B5B1056.2,B5,Success,1,25-Jul-19,22:01
+71,CCAFS SLC-40,AMOS-17,6500,GTO,Spacecom,Success,F9 B5B1047.3,B5,No attempt,0,6-Aug-19,23:23
+72,CCAFS SLC-40,Starlink,15600,LEO,SpaceX,Success,F9 B5,B5,Success,1,11-Nov-19,14:56
+73,CCAFS SLC-40,SpaceX CRS-19,2617,LEO,NASA,Success,F9 B5,B5,Success,1,5-Dec-19,17:29
+74,CCAFS SLC-40,JCSat-18,6956,GTO,Sky Perfect JSAT,Success,F9 B5B1056.3,B5,Success,1,17-Dec-19,0:10
+75,CCAFS SLC-40,Starlink,15600,LEO,SpaceX,Success,F9 B5,B5,Success,1,7-Jan-20,2:19:21
+76,KSC LC-39A,Crew Dragon in-flight abort test,12050,Sub-orbital,NASA,Success,F9 B5,B5,No attempt,0,19-Jan-20,15:30
+77,CCAFS SLC-40,Starlink,15600,LEO,SpaceX,Success,F9 B5,B5,Success,1,29-Jan-20,14:07
+78,CCAFS SLC-40,Starlink,15600,LEO,SpaceX,Success,F9 B5,B5,Failure,0,17-Feb-20,15:05
+79,CCAFS SLC-40,SpaceX CRS-20,1977,LEO,NASA,Success,F9 B5,B5,Success,1,7-Mar-20,4:50
+80,KSC LC-39A,Starlink,15600,LEO,SpaceX,Success,F9 B5,B5,Failure,0,18-Mar-20,12:16
+81,KSC LC-39A,Starlink,15600,LEO,SpaceX,Success,F9 B5,B5,Success,1,22-Apr-20,19:30
+82,KSC LC-39A,Crew Dragon Demo-2,12530,LEO,NASA,Success,F9 B5,B5,Success,1,30-May-20,19:22
+83,CCAFS SLC-40,Starlink,15600,LEO,SpaceX,Success,F9 B5,B5,Success,1,4-Jun-20,1:25
+84,CCAFS SLC-40,Starlink,15410,LEO,SpaceX,Success,F9 B5,B5,Success,1,13-Jun-20,9:21
+85,CCAFS SLC-40,GPS III,4311,MEO,U.S. Space Force,Success,F9 B5,B5,Success,1,30-Jun-20,20:10:46
+86,CCAFS SLC-40,ANASIS-II,5500,GTO,Republic of Korea Army,Success,F9 B5B1058.2,B5,Success,1,20-Jul-20,21:30
+87,KSC LC-39A,Starlink,14932,LEO,SpaceX,Success,F9 B5,B5,Success,1,7-Aug-20,5:12
+88,CCAFS SLC-40,Starlink,15440,LEO,SpaceX,Success,F9 B5B1049.6,B5,Success,1,18-Aug-20,14:31
+89,CCAFS SLC-40,SAOCOM 1B,3130,SSO,CONAE,Success,F9 B5,B5,Success,1,30-Aug-20,23:18
+90,KSC LC-39A,Starlink,15600,LEO,SpaceX,Success,F9 B5B1060.2,B5,Success,1,3-Sep-20,12:46:14
+91,KSC LC-39A,Starlink,15600,LEO,SpaceX,Success,F9 B5B1058.3,B5,Success,1,6-Oct-20,11:29:34
+92,KSC LC-39A,Starlink,15600,LEO,SpaceX,Success,F9 B5B1051.6,B5,Success,1,18-Oct-20,12:25:57
+93,CCAFS SLC-40,Starlink,15600,LEO,SpaceX,Success,F9 B5,B5,Success,1,24-Oct-20,15:31:34
+94,CCAFS SLC-40,GPS III,4311,MEO,USSF,Success,F9 B5,B5,Success,1,5-Nov-20,23:24:23
+95,KSC LC-39A,Crew-1,12500,LEO,NASA,Success,F9 B5,B5,Success,1,16-Nov-20,0:27
+96,VAFB SLC-4E,Sentinel-6 Michael Freilich (Jason-CS A),1192,LEO,NASA,Success,F9 B5,B5,Success,1,21-Nov-20,17:17:08
+97,CCAFS SLC-40,Starlink,15600,LEO,SpaceX,Success,F9 B5 ♺,B5,Success,1,25-Nov-20,2:13
+98,KSC LC-39A,SpaceX CRS-21,2972,LEO,NASA,Success,F9 B5 ♺,B5,Success,1,6-Dec-20,16:17:08
+99,CCAFS SLC-40,SXM-7,7000,GTO,Sirius XM,Success,F9 B5 ♺,B5,Success,1,13-Dec-20,17:30:00
+100,CCAFS SLC-40,Türksat 5A,3500,GTO,Türksat,Success,F9 B5,B5,Success,1,8-Jan-21,2:15
+101,KSC LC-39A,Starlink,15600,LEO,SpaceX,Success,F9 B5B1051.8,B5,Success,1,20-Jan-21,13:02
+102,CCAFS SLC-40,Transporter-1,5000,SSO,,Success,F9 B5B1058.5,B5,Success,1,24-Jan-21,15:00
+103,CCAFS SLC-40,Starlink,15600,LEO,SpaceX,Success,F9 B5 ♺,B5,Success,1,4-Feb-21,6:19
+104,CCAFS SLC-40,Starlink,15600,LEO,SpaceX,Success,F9 B5 ♺,B5,Failure,0,16-Feb-21,3:59:37
+105,KSC LC-39A,Starlink,15600,LEO,SpaceX,Success,F9 B5 ♺,B5,Success,1,4-Mar-21,8:24
+106,CCAFS SLC-40,Starlink,15600,LEO,SpaceX,Success,F9 B5 ♺,B5,Success,1,11-Mar-21,8:13:29
+107,KSC LC-39A,Starlink,15600,LEO,SpaceX,Success,F9 B5 ♺,B5,Success,1,14-Mar-21,10:01
+108,CCAFS SLC-40,Starlink,15600,LEO,SpaceX,Success,F9 B5B1060.6,B5,Success,1,24-Mar-21,8:28
+109,CCAFS SLC-40,Starlink,15600,LEO,SpaceX,Success,F9 B5 ♺,B5,Success,1,7-Apr-21,16:34
+110,KSC LC-39A,Crew-2,13000,LEO,NASA,Success,F9 B5B1061.2,B5,Success,1,23-Apr-21,9:49
+111,CCAFS SLC-40,Starlink,15600,LEO,SpaceX,Success,F9 B5B1060.7,B5,Success,1,29-Apr-21,3:44
+112,KSC LC-39A,Starlink,15600,LEO,SpaceX,Success,F9 B5B1049.9,B5,Success,1,4-May-21,19:01
+113,CCAFS SLC-40,Starlink,15600,LEO,SpaceX,Success,F9 B5B1051.10,B5,Success,1,9-May-21,6:42
+114,KSC LC-39A,Starlink,14000,LEO,SpaceX,Success,F9 B5B1058.8,B5,Success,1,15-May-21,22:56
+115,CCAFS SLC-40,Starlink,15600,LEO,SpaceX,Success,F9 B5B1063.2,B5,Success,1,26-May-21,18:59
+116,KSC LC-39A,SpaceX CRS-22,3328,LEO,NASA,Success,F9 B5B1067.1,B5,Success,1,3-Jun-21,17:29
+117,CCAFS SLC-40,SXM-8,7000,GTO,Sirius XM,Success,F9 B5,B5,Success,1,6-Jun-21,4:26
